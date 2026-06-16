@@ -35,3 +35,4 @@ Model SVM dengan kernel RBF menghasilkan akurasi sekitar 96%.
 
 ## Author
 Sifa Aulia Aroyaningrum
+NIM = 24523078
